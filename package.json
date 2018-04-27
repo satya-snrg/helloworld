@@ -1,0 +1,22 @@
+{
+  "name": "npm-helloworld",
+  "version": "1.0.0",
+  "description": "this is sample helloworld ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine-node specs/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satya-snrg/helloworld.git"
+  },
+  "author": "satya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/satya-snrg/helloworld/issues"
+  },
+  "homepage": "https://github.com/satya-snrg/helloworld#readme",
+  "devDependencies": {
+    "jasmine-node": "~1.13.1"
+  }
+}
